@@ -59,3 +59,6 @@ target/
 # Data Files
 *.data
 st99*
+
+#ipython notebook checkpoints
+.ipynb_checkpoints/
